@@ -1,0 +1,33 @@
+c:\users\thomas\documents\visual studio 2013\Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+c:\users\thomas\documents\visual studio 2013\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+c:\users\thomas\documents\visual studio 2013\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+c:\users\thomas\documents\visual studio 2013\Projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+c:\users\thomas\documents\visual studio 2013\Projects\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+c:\users\thomas\documents\visual studio 2013\Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+c:\users\thomas\documents\visual studio 2013\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+c:\users\thomas\documents\visual studio 2013\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+c:\users\thomas\documents\visual studio 2013\Projects\Calculator\Calculator\obj\Debug\Calculator.Calculator.resources
+C:\Users\Thomas\Documents\Visual Studio 2013\Projects\Desktop\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Thomas\Documents\Visual Studio 2013\Projects\Desktop\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Thomas\Documents\Visual Studio 2013\Projects\Desktop\Calculator\Calculator\obj\Debug\Calculator.pdb
+G:\Desktop\Calculator\Calculator\bin\Debug\Calculator.exe.config
+G:\Desktop\Calculator\Calculator\obj\Debug\Calculator.exe
+G:\Desktop\Calculator\Calculator\obj\Debug\Calculator.pdb
+G:\Desktop\Calculator\Calculator\bin\Debug\Calculator.exe
+G:\Desktop\Calculator\Calculator\bin\Debug\Calculator.pdb
+G:\Desktop\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+G:\Desktop\Calculator\Calculator\obj\Debug\Calculator.Calculator.resources
+G:\Desktop\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+G:\Desktop\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+G:\Stick\Desktop\Calculator\Calculator\bin\Debug\Calculator.exe.config
+G:\Stick\Desktop\Calculator\Calculator\obj\Debug\Calculator.exe
+G:\Stick\Desktop\Calculator\Calculator\obj\Debug\Calculator.pdb
+E:\Algomi\Development\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\Algomi\Development\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\Algomi\Development\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\Algomi\Development\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+E:\Algomi\Development\Calculator\Calculator\obj\Debug\Calculator.Calculator.resources
+E:\Algomi\Development\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\Algomi\Development\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+E:\Algomi\Development\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\Algomi\Development\Calculator\Calculator\obj\Debug\Calculator.pdb
